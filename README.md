@@ -17,7 +17,7 @@ This Repository contains 2 folders -
                                                             - move right -> to go right
                                                             - go down -> to duck/slide
   3.  Playing games using hand gestures -
-        - Run the code (there are 2 folders with different tech you can use any one)
+        - Run the code 
         - to go left -> use thumb only
         - to go right -> use pinky/last finger only
         - to jump -> use index finger only
