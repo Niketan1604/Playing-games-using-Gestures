@@ -1,12 +1,12 @@
 # Playing-games-using-hand-gestures
-To run this programs your need to have following libraries and compiler - 
-        - Python V-3.10 
-        - Opencv
-        - Mediapipe
-        - cv2
-        - cvzone
-        - time
-        - keyboard
+To run this programs your need to have following libraries and compiler -
+ - Python V-3.10
+ - Opencv
+ - cv2
+ - cvzone
+ - mediapipe
+ - time
+ - keyboard
     
 This Repository contains 2 folders - 
   1.  Playing games using body gestures -
